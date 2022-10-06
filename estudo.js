@@ -1,5 +1,3 @@
-let tabuada = 2
-
 function escreva (){
     document.write(tabuada + " x 1 =" (tabuada*1) + "<br>");
     document.write(tabuada + " x 2 =" (tabuada*2) + "<br>");
@@ -27,3 +25,14 @@ function MinhaTabuada(){
 
     }
 }
+function mat (){
+    let v = document.getElementById("valor"). value;
+    let J = Document.getElementById("juros"). value
+    let r = v * (1+j/100);
+    for(let i=1; i<=t; i++)){
+        v = r;
+    {
+
+
+
+    document.write("Resultado " + r);
