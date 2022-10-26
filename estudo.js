@@ -58,7 +58,8 @@ function mat(){
     for(let i=1; i<=t; i++){
         r = v * (1+(j/100));
         v = r;
-        document.write("Mês " + i + " = " + moeda(r) + "<br>");
+       // document.write("Mês " + i + " = " + moeda(r) + "<br>");
     }
-    document.write("Resultado " + moeda(r));
+    document.getElementById("totalgeral"). innerHTML = "total" ();
+   // document.write("Resultado " + moeda(r));
 }
