@@ -63,3 +63,12 @@ function mat(){
     document.getElementById("totalgeral"). innerHTML = "total" ();
    // document.write("Resultado " + moeda(r));
 }
+function limpar (){
+    document.getElementById("Mes"). innerHTML = "";
+    document.getElementById("total"). innerHTML = "0,00";  
+    document.getElementById("valor")."";
+    document.getElementById("juros")."";
+    document.getElementById("messes")""; 
+}
+
+
