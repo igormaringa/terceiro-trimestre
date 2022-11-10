@@ -37,12 +37,12 @@
     border-radius: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.calcF {}
-   display: nome;
-} 
-#calcFin: :checked + #calculadora. .calcF { }
-   display: block;
-} 
-#calFin {
+.calcF {
+    display: none;
+}
+#calcFin:checked + #calculadora .calcF {
+    display: block;
+}
+#calcFin {
     display: none;
 }
