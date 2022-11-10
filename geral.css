@@ -11,13 +11,13 @@
 }
 #calculadora input {  
     background: rgb(33, 177, 187);
-    color: rgb(236, 236, 49);
+    color: rgb(0, 0, 0);
     border-radius: 10px;
     padding: 5px;
 }
 #calculadora button {
     background: rgb(14, 240, 14); 
-    color: rgb(20, 202, 202); 
+    color: rgb(0, 0, 0); 
     margin-top: 10px;
     padding: 5px;
     border-radius: 10px;
@@ -29,7 +29,7 @@
 }
 #spTotal {
     background: rgb(216, 15, 15);
-    color: rgb(118, 218, 19);
+    color: rgb(0, 0, 0);
     padding: 5px;font-family: 'Courier New', Courier, monospace;
 }
 .splista{
